@@ -5,9 +5,9 @@
 package prgitejemplo;
 
 /**
- *
- * @author bertoa
+ * @author Fernando Juarez
  */
+
 public class GitAux {
     
     public void metodoAlumno1(){
@@ -19,6 +19,7 @@ public class GitAux {
     }
     
     public void metodoComunitario(){
+        //Comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
     }
 }
